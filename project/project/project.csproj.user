@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hope1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hopeInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hosit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hotic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mocal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="na.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="naInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nasit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="natic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="spysit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="spyticket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
